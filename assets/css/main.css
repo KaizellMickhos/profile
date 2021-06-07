@@ -3218,6 +3218,17 @@ body.is-preload #header:after {
   opacity: 1;
 }
 
+/* Certificate */
+.certificate h4 {
+  margin: 0;
+  text-align: left;
+}
+
+.certificate p {
+  text-align: left;
+  font-size: 16px;
+}
+
 /* Footer */
 
 #footer {
